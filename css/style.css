@@ -31,7 +31,7 @@ label {
 }
 
 form {
-    background-color: rgba(245, 245, 220, 0.3);
+    background-color: rgba(245, 245, 220, 0.4);
     border-radius: 10px;
 }
 
@@ -42,7 +42,7 @@ form>h3 {
 }
 
 #displayed-coffees {
-    background-color: rgba(0, 37, 73, 0.3);
+    background-color: rgba(0, 37, 73, 0.5);
     border-radius: 10px;
 }
 
@@ -52,7 +52,8 @@ form>h3 {
 }
 
 .coffee-roast {
-    color: #3b2404;
+    /*color: #3b2404;*/
+    color: #d0b999;
 }
 
 .btn {
